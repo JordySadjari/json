@@ -1,0 +1,6 @@
+{
+"school":["Mediacollege","Horizoncollege"],
+"category":"MBO",
+"nr_student":"20466",
+"courses":["MD","MV"]
+}
